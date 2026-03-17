@@ -151,4 +151,4 @@ The solution is built on a structured data model integrating:
 It highlights the power of combining data modeling, visualization, and domain expertise to solve real-world operational challenges and drive measurable business impact.
 
 **Screenshot of Dashboard:** 
-https://github.com/TheVaibhav125/SwiftRoute-Logistic-Dashboard/blob/main/SwiftRoute%20Logistic%20Dashboard.png
+![Dashboard Preview](https://github.com/TheVaibhav125/SwiftRoute-Logistic-Dashboard/blob/main/SwiftRoute%20Logistic%20Dashboard.png)
