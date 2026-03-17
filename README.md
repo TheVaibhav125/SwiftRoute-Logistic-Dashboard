@@ -71,52 +71,77 @@ Beyond visualization, the primary objective of this project is to transform raw 
 📉 Established a clear relationship between driver experience and delivery efficiency
 
 🚨 Detected specific vehicles and models prone to frequent breakdowns
+
 📊 Improved visibility into SLA adherence and delivery performance trends
+
 ⚡ Enabled early detection of operational inefficiencies before escalation
+
 
 **🛠️ Tech Stack**
 
 💻 Power BI (DAX, Data Modeling, Power Query)
+
 🗄️ SQL (Data extraction, transformation, and integration)
+
 🐍 Python (Data preprocessing and ETL support)
+
 
 **💡 Business Impact**
 **🚀 Improved Operational Efficiency**
 
 ✔️ Reduced dependency on manual Excel-based reporting
+
 ✔️ Enabled real-time monitoring of logistics KPIs
+
 ✔️ Streamlined reporting through automated dashboards
+
 
 **📊 Enhanced Decision-Making**
 
 ✔️ Provided a single source of truth for stakeholders
+
 ✔️ Enabled faster identification of delays and inefficiencies
+
 ✔️ Supported data-driven planning and strategic decisions
+
 
 **⚡ Optimized Resource Utilization**
 
 ✔️ Balanced workload across hubs by identifying capacity gaps
+
 ✔️ Improved driver allocation based on performance insights
+
 ✔️ Optimized fleet usage through vehicle performance analysis
+
 
 **🚨 Reduced Delivery Delays & Risks**
 
 ✔️ Identified root causes of delays (driver, hub, vehicle)
+
 ✔️ Enabled proactive maintenance for high-risk vehicles
+
 ✔️ Improved SLA adherence and delivery timelines
+
 
 **😊 Improved Customer Experience**
 
 ✔️ Enhanced on-time delivery performance
+
 ✔️ Increased visibility into customer satisfaction (CSAT)
+\
 ✔️ Faster issue resolution through actionable insights
+
 
 **📂 Data Model**
 
 The solution is built on a structured data model integrating:
+
 🔗 Orders – delivery timelines, delays, and customer feedback
+
 🏢 Hubs – capacity, processing efficiency, workload distribution
+
 🚴 Drivers – experience, performance, and delay contribution
+
 🚛 Vehicles – fleet utilization, breakdowns, and maintenance
 
 **🎯 Conclusion**
