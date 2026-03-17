@@ -11,43 +11,65 @@ Beyond visualization, the primary objective of this project is to transform raw 
 **🎯 Key Objectives**
 
 ✔️ Improve On-Time Delivery Rate (SLA adherence)
+
 ✔️ Identify operational bottlenecks across hubs
+
 ✔️ Optimize driver performance and workforce utilization
+
 ✔️ Monitor fleet health and reduce breakdown-related delays
+
 ✔️ Enhance customer satisfaction through faster deliveries
+
 
 **📊 Dashboard Highlights**
 **📍 Overview Dashboard**
 
 📦 Total Orders with Month-over-Month growth analysis
+
 ⏱️ On-Time Delivery % to track SLA performance
+
 😊 Customer Satisfaction Score (CSAT %) trends
+
 🚀 Average Delivery Time to measure efficiency
+
 
 **🏢 Hub Analytics**
 
 📊 Orders Processed vs Hub Capacity
+
 🏆 Hub Performance Ranking
+
 ⏳ Hub Processing Time Analysis
+
 
 **🚴 Driver Analytics**
 
 📈 Experience vs Performance Rating
+
 ⚠️ Drivers contributing to maximum delays
+
 📅 Monthly delivery trends
+
 👤 Individual driver performance summary
+
 
 **🚛 Vehicle Analytics**
 
 🚘 Fleet utilization by vehicle type/model
+
 ✅ Active vs Inactive vehicle tracking
+
 🔧 Vehicle Age vs Breakdown analysis
+
 ⚠️ High-maintenance vehicle identification
+
 
 **🧠 Key Insights Generated**
 
 🔍 Identified hub-level bottlenecks causing delivery delays due to capacity overload
+
 📉 Established a clear relationship between driver experience and delivery efficiency
+
 🚨 Detected specific vehicles and models prone to frequent breakdowns
 📊 Improved visibility into SLA adherence and delivery performance trends
 ⚡ Enabled early detection of operational inefficiencies before escalation
